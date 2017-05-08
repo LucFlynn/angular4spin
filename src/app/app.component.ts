@@ -1,7 +1,7 @@
 import {Component} from "@angular/core";
 
 @Component({
-    selector: "ng4-example",
+    selector: "angular4spin",
     templateUrl: "./templates/ng4-example-app.php"
 })
 

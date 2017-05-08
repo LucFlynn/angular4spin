@@ -14,6 +14,6 @@ if(session_status() !== PHP_SESSION_ACTIVE) {
     <title>Twitter Data Design Example</title>
 </head>
 <body>
-<ng4-example>Loading&hellip;</ng4-example>
+<angular4spin>Loading&hellip;</angular4spin>
 </body>
 </html>
